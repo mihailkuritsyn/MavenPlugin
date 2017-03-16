@@ -3,6 +3,7 @@ my template for maven plugin
 
 example usage:
 
+```xml
 <build>
     <plugins>
         <plugin>
@@ -27,3 +28,4 @@ example usage:
         </plugin>
     </plugins>
 </build>
+```
